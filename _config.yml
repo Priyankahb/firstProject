@@ -1,3 +1,6 @@
+title: "Welcome to Everything DIY's"  
+date: 2018-05-19
+
 timezone:    Europe/Berlin
 future:      false
 # Set baseurl to the base path of the site eg "/mytalk"
@@ -17,16 +20,16 @@ plugins:
   - jemoji
 
 ## personalize your slide show
-title:       github-slideshow
-author:      GitHubTeacher
-description: A fun activity for learning Git and GitHub.
+title:       Everything DIY
+author:      Priyanka
+description: One stop for pinterest DIY's.
 
 sass:
   style:     :compressed
 
 ## solarized variant (dark/light)
 solarized:
-  theme:     dark
+  theme:    minima
 
 slideNumber:
   # Slide number formatting can be configured using these variables:
